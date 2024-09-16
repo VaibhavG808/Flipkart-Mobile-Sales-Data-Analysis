@@ -1,0 +1,22 @@
+Insights 
+1. Sales by Brand
+2. Ratings by Brands
+3. Top Margin by Models
+4. Ram, Rom by Sales
+5. Base Colour, Battery Capacity by Sales
+6. Using PI chart for 100% of Sales
+
+KPI
+1. Total Sales 
+2. Sales Margin 
+3. Ratings on Sales
+4. Sales Discount all Brands
+
+Description
+In this project we have to know about
+Flipkart Mobile Data analysis this Dashboard
+create in Excel.
+First i have to extract all of the data
+and perform a cleaning of data using PBI and next
+summerized using SQL Server then extract all the data
+in power BI next add the slicers to sort data on dashboard
